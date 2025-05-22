@@ -21,7 +21,7 @@ This is a solution to the [Recipe Page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [Solution](https://github.com/FrancisL0001/Recipe-Page)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://recipe-page-flax-psi.vercel.app/)
 
 ## My process
 
