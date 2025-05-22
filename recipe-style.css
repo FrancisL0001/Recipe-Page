@@ -11,7 +11,7 @@
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
 
-@media (max-width:375px){
+@media (max-width:400px){
     .recipe{
         font-family: 'Outfit', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
         background-color: white;
@@ -27,7 +27,7 @@
     }
 }
 
-@media (min-width: 375px) and (max-width: 768px){
+@media (min-width: 400px) and (max-width: 768px){
     .recipe{
         font-family: 'Outfit', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
         background-color: white;
